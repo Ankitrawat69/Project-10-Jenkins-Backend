@@ -12,6 +12,8 @@ import org.springframework.stereotype.Repository;
 import com.rays.common.BaseDAOImpl;
 import com.rays.dto.MeetingDTO;
 
+//MeetingDAOInt
+
 @Repository
 public class MeetingDAOImpl extends BaseDAOImpl<MeetingDTO> implements MeetingDAOInt{
 

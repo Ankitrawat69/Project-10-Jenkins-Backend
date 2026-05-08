@@ -9,6 +9,8 @@ import com.rays.common.BaseDTO;
 import com.rays.common.BaseForm;
 import com.rays.dto.CustomerDTO;
 
+//Customer Form
+
 public class CustomerForm extends BaseForm {
 
 	@NotEmpty(message = "customer id is required")

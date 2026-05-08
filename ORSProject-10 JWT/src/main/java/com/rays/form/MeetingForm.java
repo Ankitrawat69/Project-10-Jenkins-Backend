@@ -5,6 +5,7 @@ import javax.validation.constraints.NotEmpty;
 import com.rays.common.BaseDTO;
 import com.rays.common.BaseForm;
 import com.rays.dto.MeetingDTO;
+//Meeting Form
 
 public class MeetingForm extends BaseForm {
 

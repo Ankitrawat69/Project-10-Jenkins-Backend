@@ -5,7 +5,7 @@ import javax.persistence.Entity;
 import javax.persistence.Table;
 
 import com.rays.common.BaseDTO;
-
+//coutomer dto
 @Entity
 @Table(name = "st_customer")
 public class CustomerDTO extends BaseDTO {

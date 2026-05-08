@@ -14,6 +14,8 @@ import com.rays.dto.MeetingDTO;
 import com.rays.form.MeetingForm;
 import com.rays.service.MeetingServiceInt;
 
+//MeetingCtl
+
 @RestController
 @RequestMapping(value = "Meeting")
 public class MeetingCtl extends BaseCtl<MeetingForm, MeetingDTO, MeetingServiceInt> {

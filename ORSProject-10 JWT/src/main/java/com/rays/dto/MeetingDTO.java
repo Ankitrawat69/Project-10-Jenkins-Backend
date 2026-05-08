@@ -5,6 +5,7 @@ import javax.persistence.Entity;
 import javax.persistence.Table;
 
 import com.rays.common.BaseDTO;
+//Meeting dto
 
 @Entity
 @Table(name = "st_meeting")

@@ -16,6 +16,8 @@ import com.rays.common.UserContext;
 import com.rays.dto.CustomerDTO;
 import com.rays.dto.MeetingDTO;
 
+//CustomerDAOImpl
+
 @Repository
 public class CustomerDAOImpl extends BaseDAOImpl<CustomerDTO> implements CustomerDAOInt {
 	

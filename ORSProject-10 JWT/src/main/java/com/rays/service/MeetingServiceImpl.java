@@ -9,6 +9,8 @@ import com.rays.common.UserContext;
 import com.rays.dao.MeetingDAOInt;
 import com.rays.dto.MeetingDTO;
 
+//MeetingServiceImpl
+
 @Service
 @Transactional
 public class MeetingServiceImpl extends BaseServiceImpl<MeetingDTO, MeetingDAOInt> implements MeetingServiceInt {
